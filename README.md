@@ -6,12 +6,6 @@
 
 **Dataset:** 
 
+Download 1: https://openxlab.org.cn/datasets/lyaleo/CD-ADD
 
-
-file：CD-ADD.zip
-
-
-url:  https://pan.baidu.com/s/1ORGwECKKnLM-1oY2HvGiqw?pwd=agip 
-
-
-password：agip
+Download 2:  https://pan.baidu.com/s/1ORGwECKKnLM-1oY2HvGiqw?pwd=agip password：agip
